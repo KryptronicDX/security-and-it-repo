@@ -20,7 +20,17 @@ This is a repository of links I've saved during my career that are all security 
   - Modern Honey Network
   - Ransomware Protection Using FSRM and PowerShell
 - [Groups](#groups)
+  - BSides 
   - Military Cyber Professionals Association
+- [News](#news)
+  - BleepingComputer
+  - InfoSec Industry
+  - Krebs on Security
+  - Risky Business
+  - SANS Internet Storm Center
+  - The Daily Swig
+  - The Hacker News
+  - Threatpost
 - [Repos](#repos)
   - Digital Forensic Tools
   - GRR Rapid Response
@@ -47,7 +57,8 @@ This is a repository of links I've saved during my career that are all security 
   - Security Config Framework
   - Unified Hosts
 - [Services](#services)
-  - National Cybersecurity Assessments and Technical Services
+  - CISA Cyber Resource Hub
+  - HackerMaps.org
 - [Software](#software)
   - GlassWire
   - Log-MD
@@ -95,8 +106,23 @@ This is a repository of links I've saved during my career that are all security 
 
 **[`^        Back to Top        ^`](#)**
 
+- [BSides](http://www.securitybsides.com/w/page/12194156/FrontPage) - Each BSides is a community-driven framework for building events for and by information security community members.  The goal is to expand the spectrum of conversation beyond the traditional confines of space and time.  It creates opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense event with discussions, demos, and interaction from participants. It is where conversations for the next-big-thing are happening. 
 - [Military Cyber Professionals Association](https://public.milcyber.org) - For those in the military or are veterans, this is a great group to not only meet up with others from the military, but also those focused on security.
 
+
+## News
+
+**[`^        Back to Top        ^`](#)**
+
+- [Bleeping Computer](https://www.bleepingcomputer.com) - Bleeping Computer® is an information security and technology news publication created in 2004 by Lawrence Abrams. 
+- [InfoSec Industry](https://infosecindustry.com) - InfoSec Industry is your one stop for access to the latest breaking news and resources on the topic of information security.
+- [Krebs on Security](https://krebsonsecurity.com) - Security news by Brian Krebs.
+- [Naked Security](https://nakedsecurity.sophos.com/) - Naked Security is Sophos’s award-winning threat news room, giving you news, opinion, advice and research on computer security issues and the latest internet threats.
+- [Risky Business](https://risky.biz) - The Risky Business podcast features news and in-depth commentary from security industry luminaries. Hosted by award-winning journalist Patrick Gray, Risky Business has become a must-listen digest for information security professionals.
+- [SANS Internet Storm Center](https://isc.sans.edu/podcast.html) - Stormcasts are daily 5-10 minute information security threat updates. The podcast is produced each work day, and typically released late in the day to be ready for your morning commute.
+- [The Daily Swig](https://portswigger.net/daily-swig) - Keeping you up to date with the latest cybersecurity news from around the world.
+- [The Hacker News](https://thehackernews.com) - The Hacker News (THN) is a leading, trusted, and widely recognized cybersecurity news platform that attracts over 8 million readers monthly, including IT professionals, researchers, hackers, technologists, and enthusiasts.
+- [Threatpost](https://threatpost.com) - Threatpost is a long-running, independent source of news and analysis about the cybersecurity landscape, covering breaking news and threat research, malware and vulnerability analysis, long-term trends and everything in-between.
 
 ## Repos
 
@@ -141,7 +167,8 @@ This is a repository of links I've saved during my career that are all security 
 
 **[`^        Back to Top        ^`](#)**
 
-- [National Cybersecurity Assessments and Technical Services](https://www.cisa.gov/cyber-resource-hub) - The Cybersecurity and Infrastructure Security Agency offers a range of cybersecurity assessments that evaluate operational resilience, cybersecurity practices, organizational management of external dependencies, and other key elements of a robust and resilient cyber framework. These professional, no-cost assessments are provided upon request on a voluntary basis and can help any organization with managing risk and strengthening the cybersecurity of our Nation's critical infrastructure.
+- [CISA Cyber Resource Hub](https://www.cisa.gov/cyber-resource-hub) - The Cybersecurity and Infrastructure Security Agency offers a range of cybersecurity assessments that evaluate operational resilience, cybersecurity practices, organizational management of external dependencies, and other key elements of a robust and resilient cyber framework. These professional, no-cost assessments are provided upon request on a voluntary basis and can help any organization with managing risk and strengthening the cybersecurity of our Nation's critical infrastructure.
+- [HackerMaps.org](https://hackermaps.org) - A Google Map of hacker conferences, B-Sides and 2600/DC meetups.  A great resource to find security cons near you.
 
 
 ## Software
