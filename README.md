@@ -22,7 +22,7 @@ This is a repository of links I've saved during my career that are all security 
   - Honeypot Resources
   - Modern Honey Network
   - Ransomware Protection Using FSRM and PowerShell
-- [Miscellaneous](#misc)
+- [Miscellaneous](#miscellaneous)
   - Better Network Diagrams
   - Draw.IO
   - Infogram
@@ -98,7 +98,6 @@ This is a repository of links I've saved during my career that are all security 
 - [Netwrix Free Tools](https://www.netwrix.com/top_7_freeware_tools.html) - I've implemented Netwrix at a previous employer that had all these tools, but these are great stand-alone tools for those needing a free solution.
 
 
-
 ## Honey Pots
 
 **[`^        Back to Top        ^`](#)**
@@ -108,14 +107,6 @@ This is a repository of links I've saved during my career that are all security 
 - [Honeypot Resources](https://github.com/paralax/awesome-honeypots) - A repo of various honeypot software and resources.
 - [Modern Honey Network](https://github.com/pwnlandia/mhn) - An open-source honeypot software package.
 - [Ransomware Protection Using FSRM and PowerShell](https://blog.netwrix.com/2016/04/11/ransomware-protection-using-fsrm-and-powershell) - A blog post by Netwrix on how to use FSRM and Powershell to add a layer of protection against ransomware.  Lots of great blog posts by Netwrix!
-
-
-## Groups
-
-**[`^        Back to Top        ^`](#)**
-
-- [BSides](http://www.securitybsides.com/w/page/12194156/FrontPage) - Each BSides is a community-driven framework for building events for and by information security community members.  The goal is to expand the spectrum of conversation beyond the traditional confines of space and time.  It creates opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense event with discussions, demos, and interaction from participants. It is where conversations for the next-big-thing are happening. 
-- [Military Cyber Professionals Association](https://public.milcyber.org) - For those in the military or are veterans, this is a great group to not only meet up with others from the military, but also those focused on security.
 
 
 ## Miscellaneous
