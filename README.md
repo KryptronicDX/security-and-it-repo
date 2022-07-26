@@ -1,6 +1,6 @@
 # Security Links Repository
 
-This is a repository of links I've saved during my career that are all security focused.  They are either to keep up with current events, tools or even repositories themselves.  Feel free to share or share your links!
+This is a repository of links I've saved during my career that are all security or IT focused, or had potential to help.  They are either to keep up with current events, tools or even repositories themselves.  Feel free to share or share your links!
 
 --------------------
 
@@ -13,15 +13,22 @@ This is a repository of links I've saved during my career that are all security 
 - [Internal Auditing](#internal-auditing)
   - Lepide Auditor
   - Netwrix Free Tools
+- [Groups](#groups)
+  - BSides 
+  - Military Cyber Professionals Association
 - [Honey Pots](#honey-pots)
   - Canary Tokens
   - Cryptolocker Canary
   - Honeypot Resources
   - Modern Honey Network
   - Ransomware Protection Using FSRM and PowerShell
-- [Groups](#groups)
-  - BSides 
-  - Military Cyber Professionals Association
+- [Miscellaneous](#misc)
+  - Better Network Diagrams
+  - Draw.IO
+  - Infogram
+  - Electronics Recycling
+  - Recycle Old Tech
+  - VMUG Controller
 - [News](#news)
   - BleepingComputer
   - InfoSec Industry
@@ -91,6 +98,7 @@ This is a repository of links I've saved during my career that are all security 
 - [Netwrix Free Tools](https://www.netwrix.com/top_7_freeware_tools.html) - I've implemented Netwrix at a previous employer that had all these tools, but these are great stand-alone tools for those needing a free solution.
 
 
+
 ## Honey Pots
 
 **[`^        Back to Top        ^`](#)**
@@ -108,6 +116,18 @@ This is a repository of links I've saved during my career that are all security 
 
 - [BSides](http://www.securitybsides.com/w/page/12194156/FrontPage) - Each BSides is a community-driven framework for building events for and by information security community members.  The goal is to expand the spectrum of conversation beyond the traditional confines of space and time.  It creates opportunities for individuals to both present and participate in an intimate atmosphere that encourages collaboration. It is an intense event with discussions, demos, and interaction from participants. It is where conversations for the next-big-thing are happening. 
 - [Military Cyber Professionals Association](https://public.milcyber.org) - For those in the military or are veterans, this is a great group to not only meet up with others from the military, but also those focused on security.
+
+
+## Miscellaneous
+
+**[`^        Back to Top        ^`](#)**
+
+- [Amazon Recycling](https://www.amazon.com/b?node=23883609011) - You can recycle your consumer electronics free of charge through an Amazon-approved Recycler. You can receive a shipping label at no cost which you can use to ship your electronics through any UPS pick-up point.
+- [Better Network Diagrams](http://networkdiagram101.com/?page_id=66) - A site that was shared to me in my current job as creating diagrams happens often.  I found some great tips here and wanted to share.
+- [Draw.IO](https://app.diagrams.net) - A free tool to create diagrams and on par with Visio.  If you need a quick and free way to make a diagram, give this a try.
+- [Infogram](https://infogram.com) - Infogram is an intuitive visualization tool that empowers people and teams to create beautiful content.
+- [Electronics Recycling](https://www.forerunnerrecycling.com) - Computer recycling easy, environmentally safe and secure!
+- [Recycle Old Tech](https://www.zdnet.com/article/recycle-trade-in-or-keep-what-to-do-with-old-tech-gear-gadgets-tech-phones) - An article by ZDnet on options for recycling old tech.
 
 
 ## News
