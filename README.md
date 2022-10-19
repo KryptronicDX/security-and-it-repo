@@ -35,6 +35,7 @@ This is a repository of links I've saved during my career that are all security 
   - Krebs on Security
   - Risky Business
   - SANS Internet Storm Center
+  - Simply Cyber
   - The Daily Swig
   - The Hacker News
   - Threatpost
@@ -131,6 +132,7 @@ This is a repository of links I've saved during my career that are all security 
 - [Naked Security](https://nakedsecurity.sophos.com/) - Naked Security is Sophos’s award-winning threat news room, giving you news, opinion, advice and research on computer security issues and the latest internet threats.
 - [Risky Business](https://risky.biz) - The Risky Business podcast features news and in-depth commentary from security industry luminaries. Hosted by award-winning journalist Patrick Gray, Risky Business has become a must-listen digest for information security professionals.
 - [SANS Internet Storm Center](https://isc.sans.edu/podcast.html) - Stormcasts are daily 5-10 minute information security threat updates. The podcast is produced each work day, and typically released late in the day to be ready for your morning commute.
+- [Simply Cyber](https://www.youtube.com/c/GeraldAuger) - This is a YouTube channel shared with me by a peer who has their CCNA and has used this channel to near continuing education credits to maintain.  Receive Practical Cybersecurity Knowledge Daily to Get a Cybersecurity Job or Level Up Your Career!
 - [The Daily Swig](https://portswigger.net/daily-swig) - Keeping you up to date with the latest cybersecurity news from around the world.
 - [The Hacker News](https://thehackernews.com) - The Hacker News (THN) is a leading, trusted, and widely recognized cybersecurity news platform that attracts over 8 million readers monthly, including IT professionals, researchers, hackers, technologists, and enthusiasts.
 - [Threatpost](https://threatpost.com) - Threatpost is a long-running, independent source of news and analysis about the cybersecurity landscape, covering breaking news and threat research, malware and vulnerability analysis, long-term trends and everything in-between.
@@ -158,6 +160,7 @@ This is a repository of links I've saved during my career that are all security 
 - [Open Source SIEM](https://cybersecurity.att.com/products/ossim) - AlienVault® OSSIM™, Open Source Security Information and Event Management (SIEM), provides you with a feature-rich open source SIEM complete with event collection, normalization and correlation.
 - [OpenVAS](https://www.openvas.org) - OpenVAS is a full-featured vulnerability scanner. Its capabilities include unauthenticated and authenticated testing, various high-level and low-level internet and industrial protocols, performance tuning for large-scale scans and a powerful internal programming language to implement any type of vulnerability test.
 - [Third-Wall](https://third-wall.com) - Automation and reports software, I haven't used.
+- [Wazuh](https://wazuh.com) - This was a tool that was shared by a customer for what they're using for their SIEM.  Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [Zeek](https://zeek.org) - Zeek is not an active security device, like a firewall or intrusion prevention system. Rather, Zeek sits on a “sensor,” a hardware, software, virtual, or cloud platform that quietly and unobtrusively observes network traffic. Zeek interprets what it sees and creates compact, high-fidelity transaction logs, file content, and fully customized output, suitable for manual review on disk or in a more analyst-friendly tool like a security and information event management (SIEM) system.
 
 
