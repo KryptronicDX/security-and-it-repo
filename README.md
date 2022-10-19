@@ -54,6 +54,7 @@ This is a repository of links I've saved during my career that are all security 
   - Open Source SIEM
   - OpenVAS
   - Third-Wall
+  - Wazuh
   - Zeek
 - [Resources](#resources)
   - Does Your Organization Have a Security.txt File?
