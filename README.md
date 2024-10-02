@@ -1,4 +1,4 @@
-# Security Links Repository
+# Security & IT Links Repository
 
 This is a repository of links I've saved during my career that are all security or IT focused, or had potential to help.  They are either to keep up with current events, tools or even repositories themselves.  Feel free to share or share your links!
 
@@ -10,6 +10,8 @@ This is a repository of links I've saved during my career that are all security 
 - [Active Directory](#active-directory)
   - GPO App Locker Protection
   - Set Local Admin Passwords Using A Random String
+- [Conferences & Meet-ups](#conferences)
+  - TechTalk Summits
 - [Internal Auditing](#internal-auditing)
   - Lepide Auditor
   - Netwrix Free Tools
@@ -91,6 +93,11 @@ This is a repository of links I've saved during my career that are all security 
 - [GPO App Locker Protection](http://community.spiceworks.com/how_to/show/59664) - A Spiceworks how-to on setting up App Locker using GPO, created by JeffatLSU.
 - [Set Local Admin Passwords Using A Random String](https://www.sans.org/blog/reset-local-administrator-password-using-a-different-random-string-on-each-computer-and-recover-the-passwords-securely) - A post by SANS.org on using PowerShell for securely managing the passwords of local admin accounts on Windows.
 
+## Conferences & Meet-ups
+
+**[`^        Back to Top        ^`](#)**
+
+- [TechTalk Summit](https://techtalksummits.com) - TechTalk Summits answers the need for regional face-to-face events that address key tactical and strategic (mission critical) issues for tech decision makers and influencers. Scheduled after your work day, TechTalks are technology-focused events that provide a marketplace for solution providers and technology decision makers in an unique environment that fosters collaboration and networking with colleagues and peers.
 
 ## Internal Auditing
 
